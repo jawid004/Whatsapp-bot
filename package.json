@@ -1,0 +1,11 @@
+{
+    "name": "ABRO-LEVANTER",
+    "version": "0.0.0",
+    "description": "Levanter WhatsApp Bot",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "author": "Abro Tech",
+    "license": "MIT"
+}
